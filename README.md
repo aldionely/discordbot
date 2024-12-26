@@ -1,2 +1,3 @@
-# discordbot
-learn how to make bot discord
+# make discord bot with your hosting
+
+first steps
